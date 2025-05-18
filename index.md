@@ -5,6 +5,11 @@
 ##### Header 5
 ###### Header 6
 
+- [x] Turn on GitHub Pages
+- [x] Outline my portfolio
+- [ ] Introduce myself to the world
+
+
 ```python
 class Base(AsyncAttrs, DeclarativeBase):
     @declared_attr.directive
