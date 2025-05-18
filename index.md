@@ -1,6 +1,6 @@
-**<h1> Header h1 </h1>**
-**<h2> Header h2 </h2>**
-**<h3> Header h3 </h3>**
-**<h4> Header h4 </h4>**
-**<h5> Header h5 </h5>**
-**<h6> Header h6 </h6>**
+# Header 1
+## Header 2
+### Header 3
+#### Header 4
+##### Header 5
+###### Header 6
